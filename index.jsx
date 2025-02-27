@@ -3,7 +3,7 @@ import React from 'react'
 function index() {
   return (
     <div>gitblax
-      <footer></footer>
+      <footer>Owerri</footer>
     </div>
   )
 }
