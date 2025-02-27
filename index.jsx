@@ -2,7 +2,9 @@ import React from 'react'
 
 function index() {
   return (
-    <div>gitblax</div>
+    <div>gitblax
+      <footer></footer>
+    </div>
   )
 }
 
